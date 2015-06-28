@@ -1,0 +1,6 @@
+C:\Users\David Ramos\Desktop\Angle Version 2.4\backend-mvc5\Angle\test\bin\test.dll.config
+C:\Users\David Ramos\Desktop\Angle Version 2.4\backend-mvc5\Angle\test\bin\test.dll
+C:\Users\David Ramos\Desktop\Angle Version 2.4\backend-mvc5\Angle\test\bin\test.pdb
+C:\Users\David Ramos\Desktop\Angle Version 2.4\backend-mvc5\Angle\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\David Ramos\Desktop\Angle Version 2.4\backend-mvc5\Angle\test\obj\Debug\test.dll
+C:\Users\David Ramos\Desktop\Angle Version 2.4\backend-mvc5\Angle\test\obj\Debug\test.pdb

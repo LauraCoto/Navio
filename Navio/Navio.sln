@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navio", "Navio\Navio.csproj", "{2B526EA0-0C8A-499B-9152-FEAB063D9B95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navio", "Angle\Navio.csproj", "{6B30D4AE-258E-4AC7-98EF-B1A5EB7A479A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{C748B3F4-9A43-4F9E-8AA6-6DF928AC2922}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2B526EA0-0C8A-499B-9152-FEAB063D9B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2B526EA0-0C8A-499B-9152-FEAB063D9B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2B526EA0-0C8A-499B-9152-FEAB063D9B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2B526EA0-0C8A-499B-9152-FEAB063D9B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B30D4AE-258E-4AC7-98EF-B1A5EB7A479A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B30D4AE-258E-4AC7-98EF-B1A5EB7A479A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B30D4AE-258E-4AC7-98EF-B1A5EB7A479A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B30D4AE-258E-4AC7-98EF-B1A5EB7A479A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C748B3F4-9A43-4F9E-8AA6-6DF928AC2922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C748B3F4-9A43-4F9E-8AA6-6DF928AC2922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C748B3F4-9A43-4F9E-8AA6-6DF928AC2922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C748B3F4-9A43-4F9E-8AA6-6DF928AC2922}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
